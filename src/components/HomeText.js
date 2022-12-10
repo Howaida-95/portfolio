@@ -9,7 +9,7 @@ const HomeText = () => {
           <p className = 'Typewriter'>I'm </p>
           <Typewriter
             options={{
-            strings: ["Howaida", "frontend developer", "react native developer"],
+            strings: ["Howaida", "frontend developer", "react native developer", "react js developer"],
             autoStart: true,
             loop: true,
           }}/> 

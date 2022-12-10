@@ -15,7 +15,7 @@ const Navbar = () => {
   const [navItems] = useState([
     {
       exact: true,
-      link: '/',
+      link: '/portfolio',
       iconContent: <FaHome className = 'nav-icon'/>,
       txtContent : 'home'
     },
