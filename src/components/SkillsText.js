@@ -11,6 +11,7 @@ const AboutText = () => {
         <li>CSS3, Bootstrap4 &#38; Sass</li>
         <li>JavaScript &#38; Typescript</li>
         <li>React JS, Redux, Redux toolkit &#38; ant design</li>
+        <li>vue js, Nuxt js &#38; vuetify</li>
         <li>React native</li>
         <li>Git &#38; Github</li>
         <li>Photoshop</li>
